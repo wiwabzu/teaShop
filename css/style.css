@@ -5,3 +5,7 @@ body {
     background: rgb(228,202, 168);
 
 }
+div {
+    width: 300px;
+    background-color: orange;
+}
