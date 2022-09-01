@@ -21,9 +21,9 @@ body {
 }
 .teaFlavor{
     text-align: left;
-    width: 49%;
+    width: 75%;
 }
 .teaPrice{
     text-align: right;
-    width: 49%;
+    width: 25%;
 }
