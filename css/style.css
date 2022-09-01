@@ -16,14 +16,16 @@ body {
     margin-right: auto;
 }
 .teaItem p{
-    background-color: red;
+    /* background-color: red; */
     display: inline-block;
 }
 .teaFlavor{
+    background-color: blueviolet;
     text-align: left;
     width: 75%;
 }
 .teaPrice{
+    background-color: blue;
     text-align: right;
     width: 25%;
 }
