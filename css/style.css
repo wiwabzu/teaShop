@@ -20,13 +20,14 @@ body {
     /* background-color: red; */
     display: inline-block;
 }
-.teaFlavor{
+.teaFlavor, .teaCollection {
     background-color: blueviolet;
     text-align: left;
     width: 75%;
 }
-.teaPrice{
+.teaPrice,.collectionPrice{
     background-color: blue;
     text-align: right;
     width: 25%;
 }
+
