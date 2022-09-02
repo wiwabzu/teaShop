@@ -15,11 +15,17 @@ body {
     background-color: rgba(228, 202, 168, 0.406);
     margin-left: auto;
     margin-right: auto;
+    
 }
 .teaItem p{
-    /* background-color: red; */
+    background-color: red; 
     display: inline-block;
 }
+
+/* p{
+    
+    background-color: darkgreen;
+} */
 .teaFlavor, .teaCollection {
     background-color: blueviolet;
     text-align: left;
