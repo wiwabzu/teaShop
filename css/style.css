@@ -19,6 +19,11 @@ body {
 .established{
     font-style: italic;
 }
+/* horizontal offset */
+hr {   
+  -webkit-box-shadow: 0 4px 17px 2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0 4px 17px 2px rgba(0, 0, 0, 0.75);
+}
 .teaMenu {
     width: 80%;
     max-width: 500px;
